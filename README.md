@@ -1,7 +1,7 @@
 # CS50AI Projects
 All project's through HarvardX's CS50 Introduction to Artificial Intelligence with Python Course
 
-# 0.1 degrees
+# 1) degrees
 ### Description
 - This program determines how many "degrees of separation" apart two actors are
 ### Background
@@ -19,7 +19,7 @@ All project's through HarvardX's CS50 Introduction to Artificial Intelligence wi
   the two people we’re trying to connect. By using breadth-first search, we can find the
   shortest path from one actor to another.
 
-# 0.2 tictactoe
+# 2) tictactoe
 ### Description
 - This program implements an AI using Minimax to play Tic-Tac-Toe optimally
 ### Background
@@ -29,7 +29,7 @@ All project's through HarvardX's CS50 Introduction to Artificial Intelligence wi
 - This algorithm works well with two player deterministic games such as tic-tac-    toe or chess
 - It works by minimzing the possible loss for a worst case scenario
 
-# 1.1 knights
+# 3) knights
 ### Description
 - This program is meant to solve the "Knights and Knaves puzzle" from the book of logical puzzles published by Raymond Smullyan in 1978 called "What is the name of this book?" by using model checking and knowledge
 ### Background
@@ -38,7 +38,7 @@ All project's through HarvardX's CS50 Introduction to Artificial Intelligence wi
 - For example, consider a simple puzzle with just a single character named A. A says “I am both a knight and a knave.”
 - Logically, we might reason that if A were a knight, then that sentence would have to be true. But we know that the sentence cannot possibly be true, because A cannot be both a knight and a knave – we know that each character is either a knight or a knave, but not both. So, we could conclude, A must be a knave.
 
-# 1.2 minesweeper
+# 4) minesweeper
 ### Description
 - In this project I build an AI that can play Minesweeper using propositional logic, and knowledge representation
 ### Background 
