@@ -47,4 +47,5 @@ All project's through HarvardX's CS50 Introduction to Artificial Intelligence wi
 - The goal is to build an AI that uses propositional logic to make decisions considering it's knowledge base, and making inferences based on this knowledge
 - What information does the AI have access to? Well, the AI would know every time a safe cell is clicked on and would get to see the number for that cell.
 
-
+# 5) pagerank
+### 
